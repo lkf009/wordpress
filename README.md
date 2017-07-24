@@ -1,2 +1,2 @@
 # wordpress
-React+Redux demo
+React+Redux 版本的wordpress
